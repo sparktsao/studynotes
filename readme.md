@@ -1,11 +1,44 @@
 # Introduction
 
+Summarize reading notes here
+
 Reinforcement
 - https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view
 - Markov Decision Process
 - Dynamic programing
+
+    ```
+    hello
+    ```
+
 - Monte carlo methods
-- Time Division
+
+    We dont have full knowledge about environment
+
+    Reinforcement Learning 第六次讀書會 Part 1
+
+    https://www.youtube.com/watch?v=l5Fnd2JZYwU&index=11&list=PL-myaKI4DslXV1F1Pzyk5BUO7oEpghl9G
+
+- Temporal-Difference Learning
+
+    走一步學一步
+
+    Reinforcement Learning 第七次讀書會 Part 1
+
+    SARSA (on-policy)
+
+    Q-Learning (off-policy)
+
+    https://www.youtube.com/watch?v=xG_JYzo3Pr8&list=PL-myaKI4DslXV1F1Pzyk5BUO7oEpghl9G&index=13
+
+- Multistep bootstraping
+
+    1 step TD
+    multi-step...
+    infinity step => MonteCarlo
+    
+
+    https://www.youtube.com/watch?v=PR6xD1kemH0&index=15&list=PL-myaKI4DslXV1F1Pzyk5BUO7oEpghl9G
 
 Attention model
 - https://arxiv.org/pdf/1706.03762.pdf
