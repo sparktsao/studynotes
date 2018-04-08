@@ -13,5 +13,26 @@
 
 ![Attention](IMG20180405_01_attention.jpg "Optional title") 
 
-:   **spark hello
----------
+BLEU score
+> Bi-ligual evaluation understudy
+> Evaluate how good a machine generated sentence
+
+- Greedy search
+- Beam search
+- Improve beam search
+
+> Human will not read all then translate, human will do part by part...so every time we generate a y, we use attention to decision how to attend the x...
+
+![Attention](IMG20180408_01_attention.jpg)
+
+$\alpha$ are the amount of attension y<sub>t</sub> 
+should pay attention to a $k_{n+1}$
+
+$$I = \int \rho R^{2} dV$$
+
+~~~
+import pandas as pd
+pd.read_csv
+~~~
+
+![Attention](IMG20180408_02_attention.jpg)
