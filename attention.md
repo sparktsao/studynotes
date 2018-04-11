@@ -36,3 +36,9 @@ pd.read_csv
 ~~~
 
 ![Attention](IMG20180408_02_attention.jpg)
+
+
+![Attention](IMG20180411_01_attention.jpg)
+
+- The definition here, have a function
+- Soft/hard attention
